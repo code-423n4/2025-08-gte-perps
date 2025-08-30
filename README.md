@@ -11,7 +11,7 @@
 
 **❗ Important notes for wardens** 
 1. A coded, runnable PoC is required for all High/Medium submissions to this audit. 
-  - This repo will include a basic template to run the test suite **within the next 24-48 hours**.
+  - This repo includes a basic template to run the test suite under the `test/c4-poc` folder.
   - PoCs must use the test suite provided in this repo.
   - Your submission will be marked as Insufficient if the POC is not runnable and working with the provided test suite.
   - Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68.
@@ -249,13 +249,9 @@ FOUNDRY_PROFILE=coverage forge coverage --ir-minimum --report lcov
 
 ## Creating a PoC
 
-The project is composed of two core systems; the perpetual CLOB system, and the Launchpad system. A dedicated PoC test suite will be provided within 24-48 hours after the contest's initiation to set up a test environment for submissions to be demonstrated on.
+The project is composed of two core systems; the perpetual CLOB system, and the Launchpad system. Within the codebase, we have introduced two test files (`PoCPerps.t.sol` & `PoCLaunchpad.t.sol`) under the `test/c4-poc` folder that sets up each system with mock implementations to allow PoCs to be constructed in a straightforward manner. 
 
-<!-- The project is composed of two core systems; the perpetual CLOB system, and the Launchpad system. Within the codebase, we have introduced a `PoC.t.sol` test file under the `test/c4-poc` folder that sets up each system with mock implementations to allow PoCs to be constructed in a straightforward manner. 
-
-Specifically, we combined the logic of the `RouterTestBase.t.sol` and `CLOBTestBase.sol` files manually to combine the underlying deployments.
-
-Depending on where the vulnerability lies, the PoC should utilize the relevant storage entries (i.e. the `router` in case a router vulnerability is demonstrated etc.).
+Depending on where the vulnerability lies, Wardens should utilize the correct PoC file alongside the relevant storage entries (i.e. the `launchpad` in case a launchpad vulnerability is demonstrated etc.).
 
 For a submission to be considered valid, the test case **should execute successfully** via the following command:
 
@@ -263,7 +259,7 @@ For a submission to be considered valid, the test case **should execute successf
 forge test --match-test submissionValidity
 ```
 
-PoCs meant to demonstrate a reverting transaction **must utilize the special `expect` utility functions `forge` exposes**. Failure to do so may result in an invalidation of the submission. -->
+PoCs meant to demonstrate a reverting transaction **must utilize the special `expect` utility functions `forge` exposes**. Failure to do so may result in an invalidation of the submission. 
 
 ## Miscellaneous
 
