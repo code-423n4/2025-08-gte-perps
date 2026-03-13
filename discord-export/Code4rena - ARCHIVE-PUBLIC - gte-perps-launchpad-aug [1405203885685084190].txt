@@ -1,0 +1,318 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / gte-perps-launchpad-aug
+==============================================================
+
+[08/26/2025 21:37] itsmetechjay (pinned)
+👋 Hello and welcome to the $103,250 in USDC **GTE Perps and Launchpad** audit channel!
+
+📆 Audit opens Thursday, 28 August 2025 20:00 (20:00 UTC) and runs through Thursday, 25 September 2025 20:00 (20:00 UTC) (28 days).
+
+**❗A coded, runnable PoC is required for all High/Medium submissions to this audit.**.  
+- This repo will include a basic template to run the test suite within the next 24-48 hours.
+- PoCs **must** use the test suite provided in the audit repo.
+- Your submission will be marked as `Insufficient` if the POC is not runnable and working with the provided test suite.
+- Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: https://code4rena.com/audits/2025-08-gte-perps-and-launchpad
+
+{Reactions}
+🔥 (6) blobDance 
+
+[08/26/2025 21:37] itsmetechjay
+Pinned a message.
+
+
+[08/28/2025 20:04] itsmetechjay (pinned)
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+Find the information you need efficiently:
+
+1. Step 1: **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/secure/2025-08-gte-perps-and-launchpad) for access.
+
+2. Step 2: Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.  
+
+ ℹ️  *Note: Docs Wolf will be available within the next 24 hours.  We'll post an update once it's ready.  *
+
+3. Step 3: If you still need clarification after reviewing the docs, feel free to **ask the GTE team** directly. From [the audit page](https://code4rena.com/secure/2025-08-gte-perps-and-launchpad), join the audit and select the `Q & A` tab.
+
+To ensure sponsors can focus their time on questions that truly need their expertise, please: 
+
+- Reference what you've already checked in the docs
+- Be specific about what you need clarified
+- Use thread replies to keep discussions organized
+
+Good hunting!
+
+
+[08/28/2025 20:05] itsmetechjay
+Pinned a message.
+
+
+[08/28/2025 21:12] itsmetechjay
+ℹ️ We are aware that the `gte-univ2` repo in the `/lib` directory is currently giving a 404 error. We are working with the sponsor and the scout on this and will post a note once it's resolved.
+
+{Reactions}
+❤️ (9) 💯 (5) ✅ (6) 👍 (5) hi5 
+
+[08/29/2025 12:28] thebrittfactor
+ℹ️ Docs Wolf is now available!
+
+{Reactions}
+wolf2 thankyou (2) 
+
+[08/29/2025 21:39] itsmetechjay
+This issue has been resolved.
+
+{Reactions}
+✅ (5) 👍🏿 (4) 
+
+[08/31/2025 13:08] itsmetechjay
+ℹ️   The test suite and instructions on creating a PoC have been added to the audit repo.  Changes reflected in [this recent PR](https://github.com/code-423n4/2025-08-gte-perps/pull/4).
+
+{Reactions}
+👍 (4) 
+
+[09/25/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **GTE Perps and Launchpad** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: The sponsor team and judge will review the findings over the next couple of weeks. Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad).
+
+{Reactions}
+💜 (34) c4ship (18) 😮‍💨 (12) 🚀 (7) 
+
+[12/25/2025 21:13] cloudellie
+Current status: the judge is awaiting input from the sponsor team before he can finalize the last few evaluations. We sincerely appreciate everyone's patience, as we are well aware this competition has taken far longer than usual to proceed through judging. 🙏
+
+{Reactions}
+😡 (5) 🙏 
+
+[01/07/2026 14:40] itsmetechjay
+Current status: we are still pending input from the sponsor on a few evaluations before we can finalize judging.
+
+{Reactions}
+👍🏻 (5) 😡 (8) 👎 (7) 😂 (2) 4739_Skeletor 
+
+[01/14/2026 14:13] itsmetechjay
+Current status: the judge is in the process of reviewing the latest sponsor input in order to finalize evaluations.
+
+{Reactions}
+👍 (7) 😡 (8) ❓ (5) 🇼 (9) 🇭 (9) 🇪 (9) 🇳 (9) ❔ (8) 
+
+[01/21/2026 13:57] itsmetechjay
+Current status: the judge is reviewing and finalizing their evaluations.
+
+{Reactions}
+👍 (3) 👎 (3) 
+
+[01/23/2026 20:17] itsmetechjay
+🤑 🎉  Awards for **GTE Perps and Launchpad**:
+
+$17,903.83 USDC » @BenRai
+$10,897.93 USDC » @hgrano
+$6,994.00 USDC » VinciGearHead (@TheWeb3Mechanic, @dan__vinci)
+$5,548.14 USDC » @dan__vinci
+$5,142.06 USDC » @lodelux
+$2,911.44 USDC » @dimulski
+$2,380.28 USDC » @0xShitgem
+$2,237.61 USDC » @0xPhantom
+$2,106.72 USDC » @Ivan-Alexandur
+$1,894.74 USDC » @Orhukl
+$1,745.27 USDC » @anchabadze
+$1,530.29 USDC » SeveritySquad (@0xHarryBarz, @Summer, @droopyman, @0xdice, @0xpetern, @WillyCode20, @Petrus)
+$1,528.88 USDC » @ifexdavid445
+$1,475.56 USDC » @trust me bro
+$1,376.89 USDC » @0xnija
+$1,297.81 USDC » @AvantGard
+$1,145.38 USDC » @dhank
+$1,137.14 USDC » Web3Vikings (@0xdice, @Somtee, @Oxchsyston, @0xTheAnzRider, @Player_1, @web3psycho, @Chapo, @Prime, @B1n4ry, @WillyCode20, @0xpetern, @0xHarryBarz, @Summer, @Petrus, @droopyman)
+$1,126.83 USDC » @techOptimizor
+$1,083.17 USDC » @Godwin
+$1,012.73 USDC » @0rpse
+$999.55 USDC » @$Coder$
+$963.10 USDC » @HighKingMargo
+$851.36 USDC » @Niffylord
+$824.98 USDC » @heeze
+$791.38 USDC » @Stormy
+$788.49 USDC » @4Nescient
+$788.49 USDC » @Stratax
+$788.49 USDC » @Psyc
+$772.06 USDC » @Riceee
+$741.61 USDC » @VAD37
+$698.03 USDC » @Ahmed nabil 22
+$628.35 USDC » @serial-coder
+$617.70 USDC » @mrMorningstar
+$612.43 USDC » @Bigsam
+$606.77 USDC » @lonelybones
+$606.77 USDC » @0xterrah
+$606.54 USDC » @Rhaydden
+$606.53 USDC » @mike_bello90
+$606.53 USDC » @nikhil840096
+$606.53 USDC » @bourdillion
+$606.53 USDC » @Menace
+$606.53 USDC » @404errorcode.
+$555.95 USDC » @0xMilenov
+$501.26 USDC » @Nemo
+$440.24 USDC » @0xsagetony
+$440.21 USDC » @Billgate
+$415.11 USDC » @Codertjay
+$415.11 USDC » Centaur (@Mylifechangefast.eth, @Nyxaris)
+$412.44 USDC » @axelot
+$410.38 USDC » @R1ver
+$401.37 USDC » @Pelz
+$398.70 USDC » @levante
+$398.70 USDC » @Pro King🤴🏻
+$315.46 USDC » @Aasif
+$304.88 USDC » @codegpt
+$294.82 USDC » @qpzm
+$292.16 USDC » @Egbe
+$292.15 USDC » @slowpoke
+$292.15 USDC » @jayjoshix
+$292.15 USDC » @LeoScant
+$288.06 USDC » @kk
+$284.74 USDC » @ZeroEx
+$278.02 USDC » @BowTiedOriole
+$232.08 USDC » @ChainShield Team
+$168.81 USDC » @Kuwatakushi
+$168.70 USDC » @agadzhalov
+$168.66 USDC » @gesha17
+$168.45 USDC » @neon2835
+$162.43 USDC » @ret2basic.eth
+
+{Reactions}
+👍 (8) ❤️ (2) 😂 (3) c4ship (2) 
+
+[01/23/2026 20:17] itsmetechjay
+$128.62 USDC » NexusAudits (@cheatc0d3, @zxnnx)
+$126.02 USDC » @prk0
+$122.28 USDC » @Alex Zhang
+$119.61 USDC » @JP
+$119.61 USDC » @valicera
+$119.61 USDC » @pfapostol
+$119.61 USDC » @0xTiwa
+$119.19 USDC » @0x_Roy
+$113.72 USDC » @prime_04
+$113.72 USDC » @Tkwk
+$113.12 USDC » @romesh
+$110.48 USDC » @Rocco
+$94.17 USDC » @harry
+$91.71 USDC » @EtherEngineer
+$91.50 USDC » @LioBlaze24
+$91.50 USDC » @BYNNΛI
+$84.48 USDC » @mahdifa
+$78.01 USDC » @0xNaN
+$73.38 USDC » @Velev
+$71.16 USDC » @Joseph-Leo
+$70.92 USDC » @nonsofelix7
+$70.72 USDC » @Icon0x
+$70.72 USDC » @JohnWeb3
+$70.71 USDC » @djshanwang
+$57.76 USDC » @Michealkwad
+$55.34 USDC » @zzebra83
+$55.09 USDC » @mkv
+$55.09 USDC » @HalfbloodPrince
+$55.09 USDC » @mbuba666
+$46.89 USDC » @jesjupyter
+$43.82 USDC » @max10afternoon
+$37.67 USDC » @Nyxaris
+$28.25 USDC » @Matin
+$11.72 USDC » @chaos304
+$9.26 USDC » @bigbear1229
+$9.25 USDC » @010010107A44
+$9.02 USDC » @ekene
+$9.01 USDC » @zambody
+$9.01 USDC » @D.R
+$9.01 USDC » @la-arana-inteligente
+$9.01 USDC » @Kaysoft
+$8.57 USDC » @newspace
+$6.35 USDC » @Gilles
+$6.15 USDC » @c0pp3rscr3w3r
+$6.15 USDC » @Wolf_Kalp
+$6.11 USDC » @PotEater
+$5.91 USDC » @lye012
+$5.90 USDC » @cu5t0mpeo
+$5.90 USDC » @Tobechukwu Azogu
+$5.90 USDC » @Dna_thug
+$5.90 USDC » @ybad
+$5.90 USDC » @Nexarion
+$4.42 USDC » @edantes
+$3.47 USDC » @lanyi2023
+$2.91 USDC » SolidityScan (@cyberboy, zombie)
+$2.68 USDC » @JeRRy
+$2.67 USDC » @typicalHuman
+$2.67 USDC » @0xSpider_Raphl🕸🕷
+$2.67 USDC » @Player
+$2.67 USDC » @0xGutzzz
+$2.67 USDC » @zhihan wei
+$2.67 USDC » @TheWeb3Mechanic
+$2.67 USDC » @4ny0n3
+$2.67 USDC » @nonono9234
+$2.67 USDC » @Narson
+$2.67 USDC » @Vinci
+$2.67 USDC » @mohitisimmortal
+$0.46 USDC » @sai
+$0.46 USDC » @magicCentaur
+$0.45 USDC » @JuggerNaut.63
+$0.39 USDC » @yesofcourse
+$0.25 USDC » @MadSisyphus
+$0.25 USDC » @FalseGenius
+$0.24 USDC » @:xD
+$0.24 USDC » @boredpukar
+$0.22 USDC » @ChainSentry
+$0.22 USDC » @0x_DyDx
+$0.21 USDC » @Tofu
+$0.21 USDC » @Tralalelo Tralala
+$0.21 USDC » @princekay
+$0.21 USDC » @AestheticBhai
+$0.21 USDC » @MetaBug
+$0.21 USDC » @magbeans9
+$0.21 USDC » @Almanax
+
+{Reactions}
+c4marketing (3) c4wins (2) 👏 🔥 (3) 
+
+[01/28/2026 14:25] itsmetechjay
+$0.13 USDC » @v2110
+$0.12 USDC » @grannylOves
+$0.07 USDC » @saikumar279 | Radcipher
+$0.01 USDC » @Ranjan
+$0.01 USDC » @ARMOHmmed
+$0.01 USDC » @eth_11
+$0.01 USDC » @den26
+$0.01 USDC » @hashbug
+$0.01 USDC » @won
+$0.01 USDC » @Joe23
+$0.01 USDC » @Adesola
+$0.01 USDC » @musty_code.py
+$0.01 USDC » @Vivek
+
+🏁 Findings summary
+--------------------------------------—
+10 High risk findings
+25 Med risk findings
+1,435 wardens participated
+
+Top Hunter: BenRai
+Top Gatherer: hgrano
+Top QA report: Orhukl
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+⚠️ Awardees, be sure to [complete your tax reporting info](https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process#tax-information-for-code4rena-contributors-wardens-judges-etc) if you haven't already. This must be completed within 30 days (i.e. before Monday, 23 February 2026) to receive your award distribution for this audit.
+
+
+[03/04/2026 15:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 03/13/2026 13:49. Please make sure to grab anything you might need before then.
+
+
+[03/12/2026 14:15] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 18 message(s)
+==============================================================
